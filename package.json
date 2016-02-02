@@ -36,7 +36,7 @@
     "application"
   ],
   "dependencies": {
-    "nw-builder": "^2.0.0"
+    "nw-builder": "github:tomlandia/nw-builder#e70b98d5881d983104d6399b4f384cdfae8ccc15"
   },
   "devDependencies": {
     "grunt": "^0.4.4"
